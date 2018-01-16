@@ -12,4 +12,11 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("blah");
     }
 
+    public boolean getAlec(boolean work){
+        if (work){
+            return true;
+        }
+        return false;
+    }
+
 }
