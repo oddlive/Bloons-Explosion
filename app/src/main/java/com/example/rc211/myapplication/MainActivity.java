@@ -19,4 +19,11 @@ public class MainActivity extends AppCompatActivity {
         return false;
     }
 
+    public boolean getNitin(boolean stupid){
+        if (stupid){
+            return true;
+        }
+        return false;
+    }
+
 }
