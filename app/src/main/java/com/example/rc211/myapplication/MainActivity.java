@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean getNitin(boolean stupid){
         if (stupid){
             return true;
+            
         }
         return false;
     }
